@@ -55,7 +55,7 @@ int main() {
 		cin >> heso >> somu;
 		Nhap(B,heso,somu);
     }
-    cout << "huhuhehehihi\n";
+    cout << "huhuhehehihi, tui co tinh ne hihi\n";
     
     cout << "Da thuc vua nhap la: "; Xuat(B);
     double x; cin >> x;
