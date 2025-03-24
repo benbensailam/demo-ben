@@ -2,7 +2,11 @@
 using namespace std;
 
 void solve(){
-    cout << "hello world\n";
+    // generate some code for me please copilot
+    cout << "huhuhehehihi, hong biet da lam gi sai\n";
+    cout << "Da thuc vua nhap la: ";
+    cout << "huhuhehehihi, hong biet da lam gi sai\n";
+    cout << "Da thuc vua nhap la: ";
 }
 
 int main(){
